@@ -1,8 +1,8 @@
 {
   "name": "md-links-gvillacura",
-  "version": "0.2.0",
+  "version": "0.6.0",
   "description": "",
-  "main": "index.js",
+  "main": "mdLinks.js",
   "directories": {
     "test": "test"
   },
@@ -17,7 +17,7 @@
   "author": "Geraldine Villacura Ruz",
   "license": "ISC",
   "bin": {
-    "md-links": "./index.js"
+    "md-links": "index.js"
   },
   "bugs": {
     "url": "https://github.com/gvillacura/SCL014-md-links/issues"
