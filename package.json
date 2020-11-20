@@ -1,4 +1,29 @@
 {
-  "name": "md-links",
-  "version": "0.1.0"
+  "name": "md-links-gvillacura",
+  "version": "0.2.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gvillacura/SCL014-md-links.git"
+  },
+  "keywords": [],
+  "author": "Geraldine Villacura Ruz",
+  "license": "ISC",
+  "bin": {
+    "md-links": "./index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/gvillacura/SCL014-md-links/issues"
+  },
+  "homepage": "https://github.com/gvillacura/SCL014-md-links#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
 }
