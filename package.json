@@ -1,6 +1,6 @@
 {
   "name": "md-links-gvillacura",
-  "version": "0.5.7",
+  "version": "0.5.8",
   "description": "",
   "main": "mdLinks.js",
   "directories": {
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/gvillacura/SCL014-md-links.git"
   },
-  "keywords": [],
+  "keywords": ["JavaScript", "Node.js"],
   "author": "Geraldine Villacura Ruz",
   "license": "ISC",
   "bin": {
