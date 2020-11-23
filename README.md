@@ -83,7 +83,7 @@ Arrojará:
 Para devolver el arreglo de objetos con los links encontrados, su ruta y el archivo que los contiene, se debe usar de la siguiente forma:
 
 ```js
-const mdLinks = require("md-links");
+const mdLinks = require("md-links-gvillacura");
 
 mdLinks("text.md")
   .then((links) => {
@@ -95,7 +95,7 @@ mdLinks("text.md")
 Y para usar la opción `--validate`:
 
 ```js
-const mdLinks = require("md-links");
+const mdLinks = require("md-links-gvillacura");
 
 mdLinks("text.md", { validate: true })
   .then((links) => {
